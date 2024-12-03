@@ -1,8 +1,10 @@
 # Antasari Programming Team
 
 ## Selamat datang di Antasari Programming Team (APT)!
-![GIF TI](URL_GIF)
 
+<p align="center">
+  ![GIF TI](https://files.catbox.moe/f7yv8y.gif)
+</p>
 
 <p align="center">
   <b>Kami adalah komunitas dari jurusan Teknologi Informasi di UIN Antasari Banjarmasin. Tim ini lahir sebagai jawaban atas kebutuhan mahasiswa yang ingin berkarya dan berinovasi di dunia teknologi, meski sering kali dihadapkan dengan keterbatasan keahlian dan keterbatan sumber dana.</b>
