@@ -1,12 +1,15 @@
-# Antasari Programming Team (APT)
+# Antasari Programming Team
 
 ## Selamat datang di Antasari Programming Team (APT)!
+![GIF TI](URL_GIF)
+
 
 <p align="center">
-  <b>Kami adalah komunitas dari jurusan Teknologi Informasi di UIN Antasari Banjarmasin. Tim ini lahir sebagai jawaban atas kebutuhan mahasiswa yang ingin berkarya dan berinovasi di dunia teknologi, meski sering kali dihadapkan dengan keterbatasan keahlian dan dana.</b>
+  <b>Kami adalah komunitas dari jurusan Teknologi Informasi di UIN Antasari Banjarmasin. Tim ini lahir sebagai jawaban atas kebutuhan mahasiswa yang ingin berkarya dan berinovasi di dunia teknologi, meski sering kali dihadapkan dengan keterbatasan keahlian dan keterbatan sumber dana.</b>
 </p>
 
 ***Kenapa APT?***
+
 Nama kami terinspirasi dari salah satu command di Linux, apt (Advanced Package Tool), yang dikenal karena efisiensinya dalam mengelola perangkat lunak. Filosofi ini sangat mewakili semangat kami:
 
 - Efisien: Kami mencari solusi cerdas untuk masalah.
@@ -14,6 +17,7 @@ Nama kami terinspirasi dari salah satu command di Linux, apt (Advanced Package T
 - Fleksibel: Kami selalu terbuka untuk belajar hal baru dan beradaptasi.
 
 **Filosofi CRUD**
+
 Kami juga mengadopsi pendekatan CRUD (Create, Read, Update, Delete), yang menjadi inti dari semua pengembangan teknologi:
 
 - Create: Kami menciptakan karya inovatif dan solusi kreatif.
@@ -28,5 +32,7 @@ Kami juga mengadopsi pendekatan CRUD (Create, Read, Update, Delete), yang menjad
 - Dengan motto kami, "Berkarya dari Keterbatasan, Menuju Keunggulan", APT adalah tempat untuk tumbuh, berbagi, dan menciptakan dampak positif melalui teknologi.
 
 ---+++----+++---+++----++++----
+
 Jangan lupa juga kunjungi website resmi kami di :
+
 [Teks Link](https://ti.uin-antasari.ac.id/)
