@@ -1,9 +1,32 @@
-## Profile Community
+#Antasari Programming Team (APT)#
 
-Antasari Programming Team (APT) adalah komunitas inovatif dari jurusan Teknologi Informasi, bernaung di bawah UIN Antasari Banjarmasin. Nama APT dipilih dengan penuh makna, terinspirasi dari perintah (command) Linux, yaitu apt (Advanced Package Tool), yang melambangkan efisiensi, kekuatan, dan fleksibilitas dalam pengelolaan perangkat lunak. Filosofi ini selaras dengan visi tim untuk menjadi solusi atas tantangan yang dihadapi anggotanya, termasuk keterbatasan keahlian dan dana.
+##Selamat datang di Antasari Programming Team (APT)!
 
-Selain itu, APT juga mengadopsi filosofi dari fungsi CRUD (Create, Read, Update, Delete). Create berarti menciptakan karya dan solusi inovatif, Read melambangkan pemahaman akan kebutuhan dan tantangan, Update mengindikasikan inovasi berkelanjutan dalam pengembangan ide, serta Delete berarti meninggalkan cara-cara lama yang tidak relevan untuk membuka jalan bagi transformasi baru.
+<p align="center">
+  <b>Kami adalah komunitas dari jurusan Teknologi Informasi di UIN Antasari Banjarmasin. Tim ini lahir sebagai jawaban atas kebutuhan mahasiswa yang ingin berkarya dan berinovasi di dunia teknologi, meski sering kali dihadapkan dengan keterbatasan keahlian dan dana.</b>
+</p>
 
-APT berdiri sebagai ruang kolaborasi bagi mahasiswa dengan semangat tinggi untuk berkarya. Tim ini mengusung misi untuk menjadikan kreativitas dan inovasi sebagai landasan dalam membangun proyek-proyek teknologi yang relevan dan berdampak. Melalui pembelajaran kolektif dan eksplorasi tanpa batas, APT membentuk anggotanya menjadi insan yang adaptif, visioner, dan berdaya saing.
+***Kenapa APT?***
+Nama kami terinspirasi dari salah satu command di Linux, apt (Advanced Package Tool), yang dikenal karena efisiensinya dalam mengelola perangkat lunak. Filosofi ini sangat mewakili semangat kami:
 
-Dengan motto "Berkarya dari Keterbatasan, Menuju Keunggulan", APT terus berkembang sebagai wadah bagi mahasiswa muda yang ingin menciptakan dampak positif melalui teknologi. Filosofi apt dan CRUD menjadi pilar dalam setiap langkahnya untuk menghadirkan solusi dan inovasi yang bermakna.
+- Efisien: Kami mencari solusi cerdas untuk masalah.
+- Kuat: Kami percaya bahwa kerja sama adalah kekuatan.
+- Fleksibel: Kami selalu terbuka untuk belajar hal baru dan beradaptasi.
+
+**Filosofi CRUD**
+Kami juga mengadopsi pendekatan CRUD (Create, Read, Update, Delete), yang menjadi inti dari semua pengembangan teknologi:
+
+- Create: Kami menciptakan karya inovatif dan solusi kreatif.
+- Read: Kami memahami kebutuhan dan tantangan yang ada.
+- Update: Kami terus berinovasi dan berkembang.
+- Delete: Kami meninggalkan cara lama yang sudah tidak relevan untuk fokus pada yang lebih baik.
+
+**Apa yang Kami Lakukan?**
+- Mengembangkan proyek teknologi yang bermanfaat.
+- Berbagi pengetahuan dan pengalaman antaranggota.
+- Mendukung mahasiswa untuk belajar, mencoba, dan berkarya lebih jauh.
+- Dengan motto kami, "Berkarya dari Keterbatasan, Menuju Keunggulan", APT adalah tempat untuk tumbuh, berbagi, dan menciptakan dampak positif melalui teknologi.
+
+---+++----+++---+++----++++----
+Jangan lupa juga kunjungi website resmi kami di :
+[Teks Link](https://ti.uin-antasari.ac.id/)
