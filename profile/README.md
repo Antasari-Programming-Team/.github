@@ -3,7 +3,7 @@
 ## Selamat datang di Antasari Programming Team (APT)!
 
 <div align="center">
-  <img src="https://files.catbox.moe/dn6498.gif" alt="Deskripsi GIF" width="200" height="200" />
+  <img src="https://files.catbox.moe/am0dc8.gif" alt="Deskripsi GIF" width="200" height="200" />
 </div>
 
 
