@@ -38,4 +38,4 @@ Kami juga mengadopsi pendekatan CRUD (Create, Read, Update, Delete), yang menjad
 
 Jangan lupa juga kunjungi website resmi kami di :
 
-[Teks Link](https://ti.uin-antasari.ac.id/)
+[Website kami](https://ti.uin-antasari.ac.id/)
