@@ -38,4 +38,4 @@ Kami juga mengadopsi pendekatan CRUD (Create, Read, Update, Delete), yang menjad
 
 Jangan lupa juga kunjungi website resmi kami di :
 
-[Website kami](https://apteam.tech/)
+[apteam.tech](https://apteam.tech/)
